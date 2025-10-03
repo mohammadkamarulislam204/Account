@@ -9,7 +9,7 @@ import time
 EXPECTED_ACCOUNT = "111101299132"
 EXPECTED_PIN     = "549265"
 BALANCE_FILE     = "balance.txt"
-INITIAL_BALANCE  = 45500000----10000000
+INITIAL_BALANCE  = 150000000
 GIT_REPO_URL     = "https://github.com/mohammadkamarulislam204/Account.git"
 
 # ANSI COLORS
